@@ -34,10 +34,10 @@ Star the [CodeWithCory repository on GitHub](https://github.com/CoryLR/codewithc
 
 ## Recommended Resources
 
-* **100 Devs** is the best place to get started coding for free
+* **100 Devs** is a great place for anyone to get started coding for free. You'll find both learning resources and community here.
   * Link: **[leonnoel.com/100devs](https://leonnoel.com/100devs/)**
 * **Resilient Coders**
-  * See if you're eligible to apply to this highly selective and paid coding bootcamp (only available to certain cities): [resilientcoders.org/apply](https://www.resilientcoders.org/apply)
+  * See if you're eligible to apply to this highly selective coding bootcamp (only available to certain cities): [resilientcoders.org/apply](https://www.resilientcoders.org/apply)
   * Note: I volunteer as a Mentor for this amazing and impactful non-profit. If you're able, consider [donating](https://resilientcoders.org/donate) to Resilient Coders!
 
 
