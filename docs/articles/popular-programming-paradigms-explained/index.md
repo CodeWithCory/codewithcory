@@ -204,9 +204,9 @@ Because the `Player` class extends the `Person` class, the new `tobyObject` has 
 
 Common OOP terminology:
 
-* Class: a blueprint for creating logical groups of code
-* Object: an entity created from a class blueprint
-* Property: a variable that is part of a Class or Object that describes an aspect or state of the Object
+* Class: a blueprint for creating Objects
+* Object: a group of code created using a Class which contains Properties and Methods
+* Property: a variable that is part of a Class or Object, typically it describes an aspect or state of the Object
 * Method: a function that is part of a Class or Object and allows it to act
 * `constructor`: a common term and keyword for a special method only used to create Objects from a Class
 * `this` or `self`: common keywords to refer to other parts of the same Object from within
