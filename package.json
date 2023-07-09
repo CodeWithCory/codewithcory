@@ -7,7 +7,8 @@
     "doc": "docs"
   },
   "devDependencies": {
-    "jasmine": "^4.5.0"
+    "jasmine": "^4.5.0",
+    "zod": "^3.21.4"
   },
   "scripts": {
     "test": "jasmine"
